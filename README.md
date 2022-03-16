@@ -6,3 +6,4 @@ Utilizei alguns elementos adicionais como fontes externas e um carrosel da bibli
 
 Pretendo migrar o proejto para o React,
 
+https://thirsty-panini-34d968.netlify.app/? - Link da Página criada
